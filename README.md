@@ -1,40 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,50:7F5AF0,100:5B2EFF&text=Angu%20Abishek&fontAlign=50&fontAlignY=38&fontSize=55&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Software%20Engineer&descAlign=50&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=ANGU%20ABISHEK&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Software%20Engineer&descAlignY=60"/>
+
+<h1>Hi 👋, I'm Angu Abishek</h1>
+
+<h3>AI Engineer • Software Engineer • Electronics Engineer</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+Intelligent+Software;Agentic+AI+Developer;Full+Stack+Engineer;Electronics+%26+Communication+Engineer;Cloud+%7C+AI+%7C+Enterprise+Applications"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+Engineer+%26+Software+Engineer;Electronics+%26+Communication+Engineer;Full+Stack+Developer;Agentic+AI+Developer;Building+Scalable+Intelligent+Systems"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/B.E.-Electronics%20%26%20Communication-6C63FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/College-VSB%20Engineering%20College-7F5AF0?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Hosur-Tamil%20Nadu-5B2EFF?style=for-the-badge"/>
-
-<br><br>
-
 <a href="mailto:anguabishek183@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-blueviolet?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/anguabishek17">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/angu-abishek-m-00748a311">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/anguabishek17/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=anguabishek17&style=for-the-badge&color=7F5AF0)
+<img src="https://komarev.com/ghpvc/?username=anguabishek17&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
 
-![](https://img.shields.io/github/followers/anguabishek17?style=for-the-badge)
+<img src="https://img.shields.io/github/followers/anguabishek17?style=for-the-badge"/>
 
-![](https://img.shields.io/github/stars/anguabishek17?style=for-the-badge)
+<img src="https://img.shields.io/github/stars/anguabishek17?style=for-the-badge"/>
 
 </div>
 
@@ -42,55 +40,69 @@
 
 # 💫 About Me
 
-```python
-class AnguAbishek:
+<table>
+<tr>
 
-    role = "AI Engineer & Software Engineer"
+<td width="60%">
 
-    location = "Hosur, Tamil Nadu, India"
+## 👨‍💻 AI Engineer & Software Engineer
 
-    education = "B.E. Electronics & Communication Engineering"
+🎓 **B.E. Electronics & Communication Engineering**
 
-    interests = [
-        "Artificial Intelligence",
-        "Agentic AI",
-        "Software Engineering",
-        "Cloud Computing",
-        "Embedded Systems",
-        "Healthcare Technology",
-        "Enterprise Applications"
-    ]
+📍 **Hosur, Tamil Nadu, India**
 
-    mission = (
-        "Building intelligent software and embedded systems "
-        "that solve real-world problems through AI, "
-        "electronics, and scalable engineering."
-    )
-
-    motto = (
-        "Passionate about AI, embedded systems, and product engineering, "
-        "transforming innovative ideas into impactful solutions."
-    )
-```
+📧 **anguabishek183@gmail.com**
 
 ---
 
-## 🚀 Open To
+### 🚀 Building
 
-- AI Engineering Roles
+- SpamSenseAI
+- MAITRI
+- Project Compass
+
+---
+
+### 🌱 Learning
+
+- AI Agents
+- Cloud Architecture
+- Advanced Full Stack Engineering
+
+---
+
+### 🔬 Exploring
+
+- Multi-Agent Systems
+- RAG Pipelines
+- DevOps Automation
+
+---
+
+### 🤝 Open To
+
 - Software Engineering Internships
-- Full Stack Development
-- Open Source Collaboration
-- Research Projects
+- AI Engineering Roles
+- Open Source
+- Research Collaboration
 - Hackathons
-- Product Engineering
-- Cloud Native Development
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anguabishek17&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Tech Arsenal
 
-## 💻 Languages
+## Languages
 
 <p align="center">
 
@@ -98,19 +110,15 @@ class AnguAbishek:
 
 </p>
 
----
-
-## 🌐 Frontend
+## Frontend
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css"/>
 
 </p>
 
----
-
-## ⚙ Backend
+## Backend
 
 <p align="center">
 
@@ -118,9 +126,7 @@ class AnguAbishek:
 
 </p>
 
----
-
-## 🗄 Database
+## Database
 
 <p align="center">
 
@@ -128,83 +134,95 @@ class AnguAbishek:
 
 </p>
 
----
-
-## ☁ Cloud • DevOps • Tooling
+## Cloud & DevOps
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,redis,git,github,linux,prometheus,grafana"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,redis,git,github,prometheus,grafana"/>
 
 </p>
 
 ---
 
-## 🤖 AI / Machine Learning
+# 🤖 AI Expertise
 
-<p align="center">
+| Domain | Technologies |
+|---------|--------------|
+| Agentic AI | Multi-Agent Systems |
+| LLMs | Gemini 2.5 Flash |
+| RAG | pgvector, Embeddings |
+| NLP | Semantic Search |
+| Computer Vision | DeepFace |
+| Backend | FastAPI |
+| Cloud | Docker, Kubernetes |
+| Monitoring | Grafana, Prometheus |
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+---
 
-</p>
+# 🚀 Featured Projects
 
-**AI Technologies**
+<details>
+<summary><b>🚀 SpamSenseAI</b></summary>
 
-- Google Gemini 2.5 Flash
-- Gemini Embeddings
-- RAG Pipelines
-- Multi-Agent Systems
-- Prompt Engineering
-- AI Workflow Automation
-- Vector Databases
-- pgvector
-- DeepFace
-- Emotion Recognition
-- NLP
+Enterprise AI Email Security Platform
+
+| Item | Details |
+|------|---------|
+| Status | MVP |
+| Frontend | Next.js 15 |
+| Backend | FastAPI |
+| AI | Gemini 2.5 Flash |
+| Database | PostgreSQL |
+| Deployment | Docker • Kubernetes |
+
+### Highlights
+
+- Multi-Agent AI
+- RAG Pipeline
 - Root Cause Analysis
 - Log Intelligence
+- JWT Authentication
 
----
+</details>
 
-# 🧠 AI / ML Expertise
+<details>
 
-| Domain | Proficiency | Details |
-|----------|------------|----------|
-| Agentic AI | ⭐⭐⭐⭐⭐ | Multi-Agent Systems, Autonomous Workflows |
-| Generative AI | ⭐⭐⭐⭐⭐ | Google Gemini, Prompt Engineering |
-| Retrieval Augmented Generation | ⭐⭐⭐⭐⭐ | Vector Search, pgvector, Embeddings |
-| NLP | ⭐⭐⭐⭐☆ | Semantic Search, AI Chat |
-| Computer Vision | ⭐⭐⭐⭐☆ | DeepFace, Emotion Detection |
-| Backend Engineering | ⭐⭐⭐⭐⭐ | FastAPI, Spring Boot, Node.js |
-| Frontend Engineering | ⭐⭐⭐⭐☆ | React, Next.js, Tailwind |
-| Database Engineering | ⭐⭐⭐⭐☆ | PostgreSQL, SQLAlchemy |
-| Cloud Computing | ⭐⭐⭐⭐☆ | AWS, Docker, Kubernetes |
-| Monitoring | ⭐⭐⭐⭐☆ | Grafana, Prometheus |
-| Software Architecture | ⭐⭐⭐⭐⭐ | Enterprise Systems Design |
-| UI/UX Design | ⭐⭐⭐⭐☆ | Product Design, Figma, Design Systems |
+<summary><b>🛰 MAITRI</b></summary>
 
----
+AI Assistant for Psychological & Physical Well-being of Astronauts
 
-# 📈 Engineering Philosophy
+</details>
 
-> "Great software isn't just written—it is architected, tested, monitored, secured, and continuously improved."
+<details>
 
-I enjoy building software that combines:
+<summary><b>⚡ Project Compass</b></summary>
 
-- 🤖 Artificial Intelligence
-- ☁ Cloud Native Infrastructure
-- 🏗 Scalable Backend Systems
-- 💻 Modern Frontend Applications
-- ⚡ Embedded & Electronics Engineering
-- 🚀 Enterprise-grade Architecture
+EV Charging Station UI/UX Design
 
-Every project I build focuses on:
+</details>
 
-- Scalability
-- Maintainability
-- Security
-- Performance
-- User Experience
-- Real-world Impact
+<details>
 
----
+<summary><b>🏭 UNO MINDA</b></summary>
+
+Machine Instruction & Compliance Management System
+
+</details>
+
+<details>
+
+<summary><b>🏫 Hostel Complaint Management System</b></summary>
+
+Complaint Tracking & Resolution Platform
+
+</details>
+
+<details>
+
+<summary><b>🧠 NeuraFlow</b></summary>
+
+Research Project
+
+AI Workflow Automation Platform
+
+</details>
