@@ -37,21 +37,49 @@
 </div>
 
 ---
-
 # 💫 About Me
 
-<table>
-<tr>
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=anguabishek17&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<td width="60%">
-
-## 👨‍💻 AI Engineer & Software Engineer
+### 👨‍💻 AI Engineer & Software Engineer
 
 🎓 **B.E. Electronics & Communication Engineering**
 
 📍 **Hosur, Tamil Nadu, India**
 
 📧 **anguabishek183@gmail.com**
+
+---
+
+💡 Passionate about **Artificial Intelligence**, **Embedded Systems**, **Cloud Computing**, and **Software Engineering**, transforming innovative ideas into impactful solutions.
+
+### 🚀 Currently Building
+
+- 🤖 SpamSenseAI
+- 🚀 MAITRI
+- ⚡ Project Compass
+
+### 🌱 Currently Learning
+
+- AI Agents
+- Cloud Architecture
+- Advanced Full Stack Engineering
+
+### 🔬 Exploring
+
+- Multi-Agent Systems
+- RAG Pipelines
+- DevOps Automation
+
+### 🤝 Open To
+
+- AI Engineering Roles
+- Software Engineering Internships
+- Open Source
+- Research Collaboration
+- Hackathons
+
+<br clear="right"/>
 
 ---
 
