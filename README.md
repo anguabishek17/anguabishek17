@@ -1,21 +1,38 @@
 <div align="center">
 
-# 👋 Hi, I'm Angu Abishek
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=ANGU%20ABISHEK&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Software%20Engineer&descAlignY=60"/>
 
-### AI Engineer • Software Engineer • Electronics Engineer
+<h1>Hi 👋, I'm Angu Abishek</h1>
 
-<p>
-Building intelligent software that bridges Artificial Intelligence, Cloud Computing, and Embedded Systems to solve real-world problems.
-</p>
+<h3>AI Engineer • Software Engineer • Electronics Engineer</h3>
 
-<p align="center">
-<a href="mailto:anguabishek183@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/anguabishek17"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/angu-abishek-m-00748a311/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/anguabishek17/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+Intelligent+Software;Agentic+AI+Developer;Full+Stack+Engineer;Electronics+%26+Communication+Engineer;Cloud+%7C+AI+%7C+Enterprise+Applications"/>
 
-![](https://komarev.com/ghpvc/?username=anguabishek17&style=for-the-badge&color=blueviolet)
+<br>
+
+<a href="mailto:anguabishek183@gmail.com">
+<img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/anguabishek17">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/angu-abishek-m-00748a311">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/anguabishek17/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=anguabishek17&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/anguabishek17?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/anguabishek17?style=for-the-badge"/>
 
 </div>
 
@@ -23,226 +40,189 @@ Building intelligent software that bridges Artificial Intelligence, Cloud Comput
 
 # 💫 About Me
 
-I'm an **Electronics & Communication Engineering** student passionate about **Artificial Intelligence**, **Software Engineering**, **Cloud Computing**, and **Embedded Systems**.
+<table>
+<tr>
 
-I enjoy architecting scalable software, designing modern user experiences, and building AI-powered applications that create real-world impact.
+<td width="60%">
+
+## 👨‍💻 AI Engineer & Software Engineer
+
+🎓 **B.E. Electronics & Communication Engineering**
+
+📍 **Hosur, Tamil Nadu, India**
+
+📧 **anguabishek183@gmail.com**
 
 ---
 
-## 🚀 Currently
+### 🚀 Building
 
-- 🤖 Building **SpamSenseAI**
-- 🚀 Developing **MAITRI**
-- ⚡ Designing **Project Compass**
-- ☁ Learning Cloud Architecture
-- 🧠 Exploring AI Agents & Multi-Agent Systems
+- SpamSenseAI
+- MAITRI
+- Project Compass
 
 ---
 
-# ⚡ Tech Stack
+### 🌱 Learning
+
+- AI Agents
+- Cloud Architecture
+- Advanced Full Stack Engineering
+
+---
+
+### 🔬 Exploring
+
+- Multi-Agent Systems
+- RAG Pipelines
+- DevOps Automation
+
+---
+
+### 🤝 Open To
+
+- Software Engineering Internships
+- AI Engineering Roles
+- Open Source
+- Research Collaboration
+- Hackathons
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anguabishek17&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ⚡ Tech Arsenal
 
 ## Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)
-![C](https://img.shields.io/badge/C-blue?style=flat&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,ts,js"/>
+
+</p>
 
 ## Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css"/>
+
+</p>
 
 ## Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,spring"/>
+
+</p>
 
 ## Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+
+</p>
 
 ## Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
-![Redis](https://img.shields.io/badge/Redis-red?style=flat&logo=redis)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,redis,git,github,prometheus,grafana"/>
+
+</p>
+
+---
+
+# 🤖 AI Expertise
+
+| Domain | Technologies |
+|---------|--------------|
+| Agentic AI | Multi-Agent Systems |
+| LLMs | Gemini 2.5 Flash |
+| RAG | pgvector, Embeddings |
+| NLP | Semantic Search |
+| Computer Vision | DeepFace |
+| Backend | FastAPI |
+| Cloud | Docker, Kubernetes |
+| Monitoring | Grafana, Prometheus |
 
 ---
 
 # 🚀 Featured Projects
 
-## SpamSenseAI
+<details>
+<summary><b>🚀 SpamSenseAI</b></summary>
 
-Enterprise-grade AI email security platform powered by Multi-Agent AI.
+Enterprise AI Email Security Platform
 
-**Highlights**
+| Item | Details |
+|------|---------|
+| Status | MVP |
+| Frontend | Next.js 15 |
+| Backend | FastAPI |
+| AI | Gemini 2.5 Flash |
+| Database | PostgreSQL |
+| Deployment | Docker • Kubernetes |
 
-- Gemini 2.5 Flash
+### Highlights
+
+- Multi-Agent AI
 - RAG Pipeline
-- pgvector
-- JWT Authentication
-- Log Anomaly Detection
 - Root Cause Analysis
-- Kubernetes Deployment
+- Log Intelligence
+- JWT Authentication
 
-**Tech**
+</details>
 
-Next.js • FastAPI • PostgreSQL • Redis • Docker
+<details>
 
----
+<summary><b>🛰 MAITRI</b></summary>
 
-## MAITRI
+AI Assistant for Psychological & Physical Well-being of Astronauts
 
-AI Assistant for Psychological & Physical Well-being of Astronauts.
+</details>
 
-**Features**
+<details>
 
-- Emotion Recognition
-- Facial Analysis
-- Speech Emotion Detection
-- AI Chat Assistant
-- Wellness Score Engine
+<summary><b>⚡ Project Compass</b></summary>
 
----
+EV Charging Station UI/UX Design
 
-## Project Compass
+</details>
 
-Modern UI/UX design for an EV Charging ecosystem.
+<details>
 
----
+<summary><b>🏭 UNO MINDA</b></summary>
 
-## UNO MINDA
+Machine Instruction & Compliance Management System
 
-Machine Instruction & Compliance Management System.
+</details>
 
-React • Spring Boot • PostgreSQL
+<details>
 
----
+<summary><b>🏫 Hostel Complaint Management System</b></summary>
 
-## Hostel Complaint Management System
+Complaint Tracking & Resolution Platform
 
-Digital complaint management platform.
+</details>
 
-React • Node.js • PostgreSQL
+<details>
 
----
+<summary><b>🧠 NeuraFlow</b></summary>
 
-## NeuraFlow *(Research)*
+Research Project
 
-AI Workflow Automation Platform.
+AI Workflow Automation Platform
 
-- Resume Parsing
-- Skill Extraction
-- Timeline Generation
-- JSON Profile Builder
-
----
-
-# 💼 Experience
-
-### Zidio
-
-UI/UX Design Intern
-
----
-
-### Titan Company Limited
-
-Industrial Training
-
----
-
-### UNO MINDA
-
-Industrial Project / Internship
-
----
-
-# 📜 Certifications
-
-- AWS Cloud Foundations — AWS Academy
-- Python Essentials — Cisco Networking Academy
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anguabishek17&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=anguabishek17&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anguabishek17&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🌱 Current Focus
-
-```yaml
-learning:
-  - AI Agents
-  - Advanced Full Stack Engineering
-  - Cloud Architecture
-
-building:
-  - SpamSenseAI
-  - MAITRI
-  - Project Compass
-
-exploring:
-  - Multi-Agent Systems
-  - RAG Pipelines
-  - DevOps Automation
-
-open_to:
-  - AI Engineering
-  - Software Engineering
-  - Open Source
-  - Research Collaboration
-```
-
----
-
-# 🤝 Let's Connect
-
-📧 **Email**
-
-anguabishek183@gmail.com
-
-💻 **GitHub**
-
-https://github.com/anguabishek17
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/angu-abishek-m-00748a311/
-
-🏆 **LeetCode**
-
-https://leetcode.com/u/anguabishek17/
-
----
-
-<div align="center">
-
-### ⭐ *"Passionate about AI, embedded systems, and product engineering, transforming innovative ideas into impactful solutions."*
-
-Thanks for visiting!
-
-</div>
+</details>
