@@ -37,7 +37,7 @@
 </div>
 
 ---
-## 👨‍💻 Developer Profile
+## 👨‍💻 ABOUT ME 
 
 ```yaml
 Name        : Angu Abishek
@@ -60,7 +60,7 @@ Mission:
 ---
 ---
 
-## 🚀 CURRENTLY BUILDING
+## 🚀 CURRENTLY BUILT
 
 - 🤖 **SpamSenseAI** — AI-powered Email Security Platform
 - 🚀 **MAITRI** — AI Assistant for Astronaut Well-being
