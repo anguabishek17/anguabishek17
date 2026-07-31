@@ -37,23 +37,27 @@
 </div>
 
 ---
-# 💫 About Me
+## 👨‍💻 Developer Profile
 
-```text
-╭──────────────────────────────────────────────╮
-│                👨‍💻 PROFILE                    │
-├──────────────────────────────────────────────┤
-│ Name        : Angu Abishek                   │
-│ Role        : AI Engineer & Software Engineer│
-│ Education   : B.E. Electronics &             │
-│               Communication Engineering      │
-│ Location    : Hosur, Tamil Nadu, India       │
-│ Email       : anguabishek183@gmail.com       │
-╰──────────────────────────────────────────────╯
+```yaml
+Name        : Angu Abishek
+Role        : AI Engineer & Software Engineer
+Education   : B.E. Electronics & Communication Engineering
+Location    : Hosur, Tamil Nadu, India
+
+Interests:
+  - Artificial Intelligence
+  - Software Engineering
+  - Cloud Computing
+  - Embedded Systems
+  - Enterprise Applications
+
+Mission:
+  Building intelligent software that solves
+  real-world problems using AI and modern engineering.
 ```
 
-> 💡 Passionate about **Artificial Intelligence**, **Software Engineering**, **Cloud Computing**, and **Embedded Systems**, transforming innovative ideas into impactful solutions.
-
+---
 ---
 
 ## 🚀 CURRENTLY BUILDING
