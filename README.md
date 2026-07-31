@@ -39,81 +39,62 @@
 ---
 # 💫 About Me
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=anguabishek17&show_icons=true&theme=tokyonight&hide_border=true"/>
+```text
+╭──────────────────────────────────────────────╮
+│                👨‍💻 PROFILE                    │
+├──────────────────────────────────────────────┤
+│ Name        : Angu Abishek                   │
+│ Role        : AI Engineer & Software Engineer│
+│ Education   : B.E. Electronics &             │
+│               Communication Engineering      │
+│ Location    : Hosur, Tamil Nadu, India       │
+│ Email       : anguabishek183@gmail.com       │
+╰──────────────────────────────────────────────╯
+```
 
-### 👨‍💻 AI Engineer & Software Engineer
-
-🎓 **B.E. Electronics & Communication Engineering**
-
-📍 **Hosur, Tamil Nadu, India**
-
-📧 **anguabishek183@gmail.com**
-
----
-
-💡 Passionate about **Artificial Intelligence**, **Embedded Systems**, **Cloud Computing**, and **Software Engineering**, transforming innovative ideas into impactful solutions.
-
-### 🚀 Currently Building
-
-- 🤖 SpamSenseAI
-- 🚀 MAITRI
-- ⚡ Project Compass
-
-### 🌱 Currently Learning
-
-- AI Agents
-- Cloud Architecture
-- Advanced Full Stack Engineering
-
-### 🔬 Exploring
-
-- Multi-Agent Systems
-- RAG Pipelines
-- DevOps Automation
-
-### 🤝 Open To
-
-- AI Engineering Roles
-- Software Engineering Internships
-- Open Source
-- Research Collaboration
-- Hackathons
-
-<br clear="right"/>
+> 💡 Passionate about **Artificial Intelligence**, **Software Engineering**, **Cloud Computing**, and **Embedded Systems**, transforming innovative ideas into impactful solutions.
 
 ---
 
-### 🚀 Building
+## 🚀 CURRENTLY BUILDING
 
-- SpamSenseAI
-- MAITRI
-- Project Compass
-
----
-
-### 🌱 Learning
-
-- AI Agents
-- Cloud Architecture
-- Advanced Full Stack Engineering
+- 🤖 **SpamSenseAI** — AI-powered Email Security Platform
+- 🚀 **MAITRI** — AI Assistant for Astronaut Well-being
+- ⚡ **Project Compass** — EV Charging Station UI/UX
+- 🏭 **UNO MINDA** — Machine Instruction & Compliance System
 
 ---
 
-### 🔬 Exploring
+## 🌱 CURRENTLY LEARNING
 
-- Multi-Agent Systems
-- RAG Pipelines
-- DevOps Automation
+- 🧠 AI Agents
+- ☁️ Cloud Architecture
+- ⚙️ Advanced Full Stack Engineering
 
 ---
 
-### 🤝 Open To
+## 🔬 CURRENTLY EXPLORING
 
-- Software Engineering Internships
-- AI Engineering Roles
-- Open Source
-- Research Collaboration
-- Hackathons
+- 🤖 Multi-Agent Systems
+- 📚 RAG Pipelines
+- ⚡ DevOps Automation
+- ☁️ Kubernetes & Cloud-Native Applications
+
+---
+
+## 🎯 OPEN TO
+
+- 💼 AI Engineering Roles
+- 💻 Software Engineering Roles
+- 🌍 Open Source Contributions
+- 🤝 Research Collaborations
+- 🏆 Hackathons & Innovation Challenges
+
+---
+
+## 🚀 MISSION
+
+> **Designing intelligent software and scalable systems that combine AI, cloud technologies, and engineering to solve real-world problems and create meaningful impact.**
 
 </td>
 
